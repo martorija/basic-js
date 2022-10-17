@@ -30,8 +30,8 @@ function dateSample(/* sampleActivity */) {
   else{
     return false;
   }
-  console.log( '1');
-  console.log('WOOT!');
+  // console.log( '1');
+  // console.log('WOOT!');
 }
 
 module.exports = {
