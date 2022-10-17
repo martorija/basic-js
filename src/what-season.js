@@ -25,17 +25,17 @@ function getSeason( date) {
     case '2':
     case '3':  
     case '4':
-      return'spring';
+      alert('spring');
       break;
     case '5':
     case '6':  
     case '7':
-      return'summer';
+      alert('summer');
         break;
     case '8':
     case '9':  
     case '10':
-      return'autumn';
+      alert('autumn');
         break;
     case '11':
     case '12':  
